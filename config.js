@@ -12,9 +12,9 @@ import { en, es, id, ar, pt, fr } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],  
-  ['5492266466080', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],
-  ['59894808483', '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🥏', true],
+  ['529582199908', 'BOT WASSON FX 🤯', true],  
+  ['529616989024', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],
+  ['529616989024', '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🥏', true],
   ['59894808483'],
   ['584125778026'],
   ['5492266613038'],
@@ -32,7 +32,7 @@ global.owner = [
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['528451003894'] 
+global.prems = ['529616989024'] 
 //key de violetics
 global.Key360 = ['964f-0c75-7afc']
    
@@ -105,7 +105,7 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-['18059196237', 'Gata Dios 💻', 1], 
+['529616989024',   'BOT WASSON FX 💻', 1], 
 ['5492266466080', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ['59894808483', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
 ['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
@@ -116,32 +116,31 @@ global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = '' //agrega tú país ejemplo: 🇪🇨
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = 'BOT WASSON FX'
+global.author = 'WASSON FX'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.4.9'
 global.vsJB = '2.0'
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = 'WASSON FX'
 global.yt = 'https://youtube.com/@gatadios'
 global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
 global.ig = 'https://www.instagram.com/gata_dios'
 global.md = 'https://github.com/GataNina-Li/GataBot-MD'
 global.fb = 'https://www.facebook.com/groups/872989990425789/'
 
-global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
-global.nna2 = 'https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76' //Help
-global.nn = 'https://chat.whatsapp.com/F6YBN9zDuGw50hdlceW21x' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/ImTnZ3pvmI0Dc5nQNlxVaj' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/K0UCo7igED92q9c1w2DiEH' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/HJLpWS2BDrWCPH6uAUKIRG' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/GRLe6IF8Sec7xbJsSBFbla' //Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/F63pQpKCsWiF2zFXxhYnky' //Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO' //Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/J8HOf2T3QYeKu3UN9UBkT6' //Grupo 9 COL
+global.nna = '' //UPDATE GATABOT
+global.nna2 = 'https://chat.whatsapp.com/BCw3E0rTpTgBQQmQ2Qp4jr' //Help
+global.nn = 'https://chat.whatsapp.com/BCw3E0rTpTgBQQmQ2Qp4jr' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/BCw3E0rTpTgBQQmQ2Qp4jr' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/BCw3E0rTpTgBQQmQ2Qp4jr' //Grupo 3
+global.nnntt = 'https://chat.whatsapp.com/BCw3E0rTpTgBQQmQ2Qp4jr' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/BCw3E0rTpTgBQQmQ2Qp4jr' //Grupo 5
+global.nnnttt1 = 'https://chat.whatsapp.com/BCw3E0rTpTgBQQmQ2Qp4jr' ' //Grupo 7 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/BCw3E0rTpTgBQQmQ2Qp4jr' //Grupo 8 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/BCw3E0rTpTgBQQmQ2Qp4jr' //Grupo 9 COL
 global.paypal = 'https://paypal.me/OficialGD'
 global.asistencia = 'Wa.me/19393844141' //Dudas? escríbeme...
 
@@ -177,8 +176,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = 'BOT WASSON FX. : WASSON FX'
+global.igfg = 'WASSON FX'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
